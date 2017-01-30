@@ -1,2 +1,0 @@
-# Batya
-https://discordapp.com/api/webhooks/275615172159340544/db9s5Rwgi6UYRvxOFAUa_juofadRQguputRXb6STUF3ufz9C2mq3UFmKNSVKc6j50oBs
